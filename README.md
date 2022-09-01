@@ -1,6 +1,6 @@
 # JAVA
 #
-# This is messy order system in java CLI
+# Scuffed java order system cli
 # 
 # 
 # 
